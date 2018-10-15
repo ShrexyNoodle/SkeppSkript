@@ -894,7 +894,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rend: {fileID: 1935071479}
-  spaceShipStartSpeed: 0.2
+  spaceShipStartSpeed: 5
   spaceShipRotationSpeedRight: -100
   spaceShipRotationLeft: 80
   timer: 0
